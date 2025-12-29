@@ -6,6 +6,7 @@ This project uses SQL to extract actionable insights from the Chinook database, 
 
 ## Key Insights
 * **Top Customer:** The analysis identified our most valuable customer, enabling targeted loyalty programs.
+* ![Top Spenders Query Result](top_spenders.png)
 * **USA Market Trends:** Rock is the dominant genre in the USA, followed by Latin and Metal.
 * **Employee Performance:** We identified the top-performing Sales Support Agent by total revenue generated.
 
